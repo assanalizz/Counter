@@ -47,3 +47,4 @@ class ViewController: UIViewController {
         addHistory("значение сброшено")
     }
 }
+// Sprint 3
